@@ -1,1 +1,1 @@
-# Kovacs_Agnes
+# Kovács Ágnes-tanulmánykötet
