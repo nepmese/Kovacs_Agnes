@@ -9,4 +9,4 @@
 3. A népmesemondással kapcsolatos elméleti, gyakorlati és praktikus ismeretek átadása, oktatás, kiadványok és rendezvények formájában
 
 
-[Excel-fájl](https://github.com/nepmese/Kovacs_Agnes/raw/master/docs/2019J%C3%93%C3%93RAREND.xls)
+[Excel-fájl](https://github.com/nepmese/Kovacs_Agnes/blob/master/docs/2019J%C3%93%C3%93RAREND.xls?raw=true)
